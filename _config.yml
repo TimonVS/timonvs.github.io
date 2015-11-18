@@ -1,0 +1,9 @@
+# Site settings
+title: Timon van Spronsen
+tag_text: Timon van Spronsen
+description:
+
+# Build settings
+markdown: Redcarpet
+
+exclude: ["README.md"]
