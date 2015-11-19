@@ -6,7 +6,7 @@ Hi! My name is Timon, I'm currently studying Computer Science at Rotterdam Unive
 
 My skills are mainly focused on webdevelopment. I've got experience with HTML5, CSS3 (including Less and Sass), JavaScript, AngularJS, Gulp and Webpack.
 
-[Download my resume (Dutch)]()
+[Download my resume (Dutch)](cv.pdf)
 
 Contact me via: [timonvanspronsen@outlook.com](mailto:timonvanspronsen@outlook.com)
 
