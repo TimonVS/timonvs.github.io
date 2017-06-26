@@ -18,7 +18,7 @@ My skills include (but are not limited to):
 - Python, used for data crunching and building recommender systems.
 - C#, used for building a recommender system.
 - TypeScript, it's just a better way of doing JavaScript 🙈
-- <insert new hot 🔥 JS library here>
+- <insert hot new 🔥 JS library here>
 
 ### Links
 
