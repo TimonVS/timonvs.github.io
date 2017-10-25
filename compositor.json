@@ -1,0 +1,73 @@
+{
+  "name": "TimonVS/timonvs.github.io",
+  "version": "0.1.4",
+  "libraries": {
+    "xv": "^1.1.25"
+  },
+  "title": "Timon",
+  "branch": "TimonVS-patch-1",
+  "style": {
+    "name": "Williamsburg",
+    "componentSet": {
+      "nav": "nav/BasicNav",
+      "header": "header/LightBannerHeader",
+      "article": "article/ReaderArticle",
+      "footer": "footer/BasicFooter"
+    },
+    "fontFamily": "Montserrat, sans-serif",
+    "heading": {
+      "fontWeight": 600,
+      "letterSpacing": "0.1em"
+    },
+    "colors": {
+      "text": "#346",
+      "background": "#fff",
+      "primary": "#0099e0",
+      "secondary": "#ab61ff",
+      "highlight": "#f7b",
+      "muted": "#fffab3",
+      "border": "#ccd"
+    }
+  },
+  "content": [
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "https://github.com/TimonVS/timonvs.github.io",
+          "text": "GitHub"
+        }
+      ]
+    },
+    {
+      "component": "header",
+      "heading": "timonvs.github.io",
+      "subhead": null,
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "timonvs.github.io: ",
+          "url": null
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "TimonVS",
+          "repo": "timonvs.github.io"
+        }
+      ]
+    },
+    {
+      "component": "footer",
+      "links": [
+        {
+          "href": "https://github.com/TimonVS/timonvs.github.io",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/TimonVS",
+          "text": "TimonVS"
+        }
+      ]
+    }
+  ]
+}
